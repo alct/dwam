@@ -1,4 +1,14 @@
 {
+  "Base": {
+    "location": "be",
+    "primary": "212.53.4.4",
+    "secondary": "212.53.5.5"
+  },
+  "Belcenter": {
+    "location": "be",
+    "primary": "217.112.180.1",
+    "secondary": "217.112.180.2"
+  },
   "Belgacom": {
     "location": "be",
     "primary": "195.238.2.21",
@@ -9,10 +19,20 @@
     "primary": "212.65.63.10",
     "secondary": "212.65.63.145"
   },
+  "Numericable": {
+    "location": "be",
+    "primary": "212.76.224.172",
+    "secondary": "82.216.111.121"
+  },
   "Edpnet": {
     "location": "be",
     "primary": "212.71.0.33",
     "secondary": "212.71.8.10"
+  },
+  "Scarlet": {
+    "location": "be",
+    "primary": "193.74.208.135",
+    "secondary": "193.121.171.135"
   },
   "Telenet": {
     "location": "be",
