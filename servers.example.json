@@ -1,0 +1,42 @@
+{
+  "Belgacom": {
+    "location": "be",
+    "primary": "195.238.2.21",
+    "secondary": "195.238.2.22"
+  },
+  "Mobistar": {
+    "location": "be",
+    "primary": "212.65.63.10",
+    "secondary": "212.65.63.145"
+  },
+  "Edpnet": {
+    "location": "be",
+    "primary": "212.71.0.33",
+    "secondary": "212.71.8.10"
+  },
+  "Telenet": {
+    "location": "be",
+    "primary": "195.130.131.139",
+    "secondary": "195.130.130.139"
+  },
+  "Voo": {
+    "location": "be",
+    "primary": "217.117.33.134",
+    "secondary": "217.117.32.3"
+  },
+  "FDN": {
+    "location": "fr",
+    "primary": "80.67.169.12",
+    "secondary": "80.67.169.40"
+  },
+  "Google": {
+    "location": "us",
+    "primary": "8.8.8.8",
+    "secondary": "8.8.4.4"
+  },
+  "OpenDNS": {
+    "location": "us",
+    "primary": "208.67.222.222",
+    "secondary": "208.67.220.220"
+  }
+}

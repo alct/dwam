@@ -1,0 +1,16 @@
+{
+    "name": "alct/dwam",
+    "description": "Domain Whack-a-Mole",
+    "license": "AGPL-3.0",
+    "homepage": "https://github.com/alct/dwam",
+    "authors": [
+        {
+            "name": "alct",
+            "email": "git@loconte.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "pear/net_dns2": "dev-trunk"
+    }
+}

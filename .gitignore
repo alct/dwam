@@ -1,0 +1,6 @@
+# Composer
+vendor/
+composer.lock
+
+# Custom servers list
+servers.json
