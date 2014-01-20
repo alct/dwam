@@ -52,7 +52,7 @@ if (!empty($_POST['dwam-domain'])) {
             };
           }
 
-          $info = !isset($info) ? 'Undefined error' : $info;
+          $info = isset($info) ? $info : 'Undefined error';
 
           $output .= "\n  "
             . '<li>'
