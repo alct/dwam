@@ -3,7 +3,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" media="screen" href="ui/global.css" />
+<link rel="stylesheet" media="all" href="css/normalize-2.1.3.min.css" />
+<link rel="stylesheet" media="screen" href="css/main.css" />
 
 <title>DWaM - Domain Whack-a-Mole</title>
 </head>
@@ -56,7 +57,7 @@ if (!empty($_POST['dwam-domain'])) {
 
           $output .= "\n  "
             . '<li>'
-            . '<img src="ui/imgs/' . $properties['location'] . '.png" alt="[' . $properties['location'] . ']" /> '
+            . '<img src="img/' . $properties['location'] . '.png" alt="[' . $properties['location'] . ']" /> '
             . '<span class="provider">' . $provider . '</span> '
             . '<span class="answer">' . $info . '</span>'
             . '</li>';
