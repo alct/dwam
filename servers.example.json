@@ -49,6 +49,11 @@
     "primary": "80.67.169.12",
     "secondary": "80.67.169.40"
   },
+  "German Privacy Foundation": {
+    "location": "de",
+    "primary": "87.118.100.175",
+    "secondary": "94.75.228.29"
+  },
   "Google": {
     "location": "us",
     "primary": "8.8.8.8",
@@ -58,5 +63,10 @@
     "location": "us",
     "primary": "208.67.222.222",
     "secondary": "208.67.220.220"
+  },
+  "OpenNIC": {
+    "location": "nl",
+    "primary": "37.77.82.233",
+    "secondary": "37.77.82.230"
   }
 }
